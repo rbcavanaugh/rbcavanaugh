@@ -1,16 +1,15 @@
-### Hi there 👋
+### Rob Cavanaugh M.S. CCC-SLP
 
-<!--
-**rbcavanaugh/rbcavanaugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ph.D Student, Communication Sciences and Disorders
 
-Here are some ideas to get you started:
+TL1 Predoctoral Fellow, Institute for Clinical Research Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+University of Pittsburgh
+
+https://robcavanaugh.com
+
+### Interests:
+- Aphasia & Related Cognitive Communication Dsiorders
+- Translational Research & Implementation Science
+- Health Services Research and Large-Scale Outcomes
+- Data Science & R & RShiny
