@@ -9,7 +9,7 @@ University of Pittsburgh
 https://robcavanaugh.com
 
 ### Interests:
-- Aphasia & Related Cognitive Communication Dsiorders
+- Aphasia & Related Cognitive Communication Disorders
 - Translational Research & Implementation Science
 - Health Services Research and Large-Scale Outcomes
 - Data Science & R & RShiny
