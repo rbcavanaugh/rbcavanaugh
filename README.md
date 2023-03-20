@@ -1,6 +1,6 @@
 ### Rob Cavanaugh M.S. CCC-SLP
 
-Research Data Analyst, OHDSI Center, Roux Institute, Northeastern University [1/2023 - present]
+Research Data Analyst, OHDSI Center, Roux Institute, Northeastern University [1/2023 - present]  
 Ph.D Candidate, Communication Sciences and Disorders
 
 I'm a staff research data analyst supporting Dr. Brianne Olivieri-Mui and Dr. Louisa Smith at the Roux OHDSI Center and a PhD candidate at the University of Pittsburgh. My research has focused on improving behavioral treatments for post-stroke aphasia (a language disorder common after stroke) and clinical service delivery in aphasia rehabilitation. In my current role, I'm shifting to focus on health services/population health research. I'm also passionate about quantitative methods, statistical programming, and open science. 
