@@ -1,13 +1,7 @@
 ### Rob Cavanaugh PhD, CCC-SLP
 
-Research Data Analyst, OHDSI Center, Roux Institute, Northeastern University [1/2023 - present]  
+I'm an Assistant Professor of Quantitative Methods at the [MGH Institute of Health Professions](https://www.mghihp.edu/ihp-directory/robert-cavanaugh){target="_blank"} (IHP). My current research integrates health services and population health methods to examine healthcare utilization, service delivery, and dose-response relationships in post-stroke aphasia. I also collaborate on studies advancing aphasia assessment, treatment efficacy, and generalization. My background as a speech-language pathologist in neurorehabilitation shapes this work, which spans efficacy, effectiveness, and implementation approaches. My long-term goal is to improve the effectiveness and implementation of complex interventions in neurorehabilitation, particularly related to treatment dose and recovery in post-stroke aphasia.
 
-I'm a staff research data analyst supporting Dr. Brianne Olivieri-Mui and Dr. Louisa Smith at the Roux OHDSI Center and a PhD candidate at the University of Pittsburgh. My research has focused on improving behavioral treatments for post-stroke aphasia (a language disorder common after stroke) and clinical service delivery in aphasia rehabilitation. In my current role, I'm shifting to focus on health services/population health research. I'm also passionate about quantitative methods, statistical programming, and open science. 
+I'm also one of two core statistical faculty in IHP's PhD program and teach courses in statistics, measurement, and reproducible research, and provide statistical and methodological support to graduate students and faculty across the institute. I serve as a statistical co-investigator, consultant, and mentor on studies ranging from randomized controlled trials to observational and quasi-experimental designs. I have expertise in multilevel modeling, multivariate methods, and longitudinal analysis across clinical and social-behavioral research in both frequentist and Bayesian frameworks. On the methods side of the house, I'm highly motivated to improve the psychometrics underpinning assessments using tools like generalization theory and item response theory in rehabilitation research as well as the rigor and reproducibility of statistical approaches used to analyze data common to rehabilitation research.
 
 https://rbcavanaugh.github.io
-
-### Interests:
-- Improving rehabilitaiton outcomes for post-stroke aphasia & related cognitive communication disorders
-- Real-world evidence generation to improve healthcare decision making
-- Health Services Research / Population Health Research / Implementation Science
-- Quantitative methods, open-source software development, open science, & science communication
